@@ -1,4 +1,4 @@
-# PreBit
+# PreBit - a multimodal model to predict Bitcoin price movement using Twitter and FinBERT
 
 This is the repo accompanying the paper: ["A multimodal model with Twitter FinBERT embeddings for extreme price movement prediction of Bitcoin"](https://arxiv.org/abs/2206.00648)
 
